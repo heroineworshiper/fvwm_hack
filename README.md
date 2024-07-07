@@ -1,6 +1,9 @@
 FVWM with hacks to get mod-tab to work
+
 The hacks are identified by HACK
+
 This was based on fvwm-2.6.8
+
 The output executable is fvwm/fvwm.  Copy it over your fvwm binary to test.
 ----
 
