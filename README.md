@@ -1,4 +1,4 @@
-FVWM with hacks to get mod-tab to work
+FVWM with hacks to get alt/mod-tab to work
 
 The hacks are identified by HACK
 
