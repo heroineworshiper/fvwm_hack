@@ -5,6 +5,7 @@ The hacks are identified by HACK
 This was based on fvwm-2.6.8
 
 The output executable is fvwm/fvwm.  Copy it over your fvwm binary to test.
+
 ----
 
 [![Build Status](https://travis-ci.org/fvwmorg/fvwm.svg?branch=master)](https://travis-ci.org/fvwmorg/fvwm)
